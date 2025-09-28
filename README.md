@@ -138,6 +138,23 @@ GET    /analytics/trends         # Trend detection metrics
 GET    /analytics/aov            # Average Order Value insights
 
 ```
+## 📱 Screenshots
+```
+(Placeholder images for hackathon submission)
 
----
+Frontend Dashboard – Recommendation view with retailer controls
 
+
+ML Analytics – Retailer trends and insights
+```
+
+## 📦 Installation
+-Prerequisites
+
+-**Python 3.11+**
+
+-**Docker & Docker Compose**
+
+-**PostgreSQL & Redis**
+
+-**Git**
